@@ -255,7 +255,7 @@
 			},
 			{
 				"value": "Publisher Deals",
-				"translation": "Предложения издателя"
+				"translation": "Контракты"
 			},
 			{
 				"value": "Game Contracts",
@@ -267,7 +267,7 @@
 			},
 			{
 				"value": "Topic",
-				"translation": "Тема"
+				"translation": "Тематика"
 			},
 			{
 				"value": "Genre",
@@ -279,7 +279,7 @@
 			},
 			{
 				"value": "Royalties",
-				"translation": "отчисления"
+				"translation": "Гонорары"
 			},			
 			{
 				"value": "Penalty",
